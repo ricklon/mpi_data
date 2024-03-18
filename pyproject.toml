@@ -11,6 +11,12 @@ langchain-community = "^0.0.28"
 sentence-transformers = "^2.5.1"
 faiss-cpu = "^1.8.0"
 pandas = "^2.2.1"
+streamlit = "^1.32.2"
+python-dotenv = "^1.0.1"
+langchain = "^0.1.12"
+langchainhub = "^0.1.15"
+html2text = "^2024.2.26"
+langchain-text-splitters = "^0.0.1"
 
 
 [build-system]

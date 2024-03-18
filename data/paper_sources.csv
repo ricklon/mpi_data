@@ -1,0 +1,11 @@
+Mine,Deposit type,URL,Reason
+Red Dog,Siliciclastic-carbonate zinc-lead,https://www.miningdataonline.com/reports/Red%20Dog%20Mine_TR12312016.pdf,type locality for Siliciclastic-carbonate zinc-lead
+Revenue-Virginius,"Intermediate-sulfidation (IS) epithermal silver-gold ± Zn, Pb, Cu, Sn, Mn",https://aurcana.com/_resources/reports/NI-43-101-Technical-Report-Feasibility-Study-Revenue-Virginius-Mine.pdf,specifically spelled out in the report
+Arctic,Mafic-siliciclastic VMS,https://trilogymetals.com/site/assets/files/5394/2020-10-02-arctic-feasibility.pdf,"reports says it's the same as the Ambler, and this is what I determined for that deposit"
+Hermosa,replacement polymetallic,https://www.miningdataonline.com/reports/Taylor_PEA_01162018.pdf,"defined as carbonate replacement deposit, which is the same as polymetallic replacement even though this synonym is not given in Hofstra et al"
+Pickett Mountain,bimodal felsic VMS,https://www.wolfdenresources.com/wp-content/uploads/2020/10/Wolfden-Pickett-Mt-PEA-Techncial-ReportSept2020.pdf,not specified just VMS and bimodal felsic volcanism is mentioned
+Palmer,bimodal felsic VMS,https://americanpacificmining.com/wp-content/uploads/2022/10/Palmer-NI-43%E2%80%90101-Technical-Report.pdf,report mentions VMS as a group and that it most closely resembles Greens Creek which is a bimodal felsic VMS. Determining characteristcs are listed too.
+Strong and Harris,skarn copper,https://minedocs.com/21/Strong_and_Harris_PEA_992021.pdf,copper skarn specifically mentioned as deposit type in the report
+Greens Creek,bimodal felsic VMS,https://www.miningnewsfeed.com/reports/GreensCreek_Technical_Report_12312018.pdf,"identifying characteristics specifically mentioned (bimodal, Kuroko, etc.)"
+Elk Creek ,Carbonatite niobium,https://www.miningnewsfeed.com/reports/annual/Elk-Creek-FS-04162019.pdf,"carbonatite group mentioned and based on Nb being the primary commodity, I selected this type"
+Empire Mine,Skarn gold ± copper ± tungsten,https://minedocs.com/21/Empire-MR-10302020.pdf,classified as polymetallic skarn in the report but that's not an option in Hofstra et al. based on the commodities present Skarn gold ± copper ± tungsten deposit type sounds like the best match
